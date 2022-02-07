@@ -12,19 +12,4 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
     }
-
-
-    fun OnStart() {
-        super.onStart()
-    }
-
-    fun OnResume() {
-        super.onResume()
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-
-
-    }
 }
