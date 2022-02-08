@@ -8,4 +8,5 @@
     <string name="miss">MISS</string>
     <string name="guessed">GUESSED</string>
     <string name="back">Back</string>
+    <string name="volume">Volume</string>
 </resources>
